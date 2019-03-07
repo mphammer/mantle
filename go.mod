@@ -27,6 +27,7 @@ require (
 	github.com/imdario/mergo v0.3.6
 	github.com/json-iterator/go v1.1.5 // indirect
 	github.com/koki/json v0.0.0-20180412040528-e521cbda08e3
+	github.com/koki/short v0.4.0
 	github.com/koki/structurederrors v0.0.0-20180506174113-6b997eb5e2ca
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/kr/pty v1.1.3 // indirect
